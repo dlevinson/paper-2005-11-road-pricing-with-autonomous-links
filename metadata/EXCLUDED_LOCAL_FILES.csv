@@ -1,0 +1,6 @@
+path_or_pattern,decision,reason
+"/Users/dlev2617/Documents/Software/ARC - Zhang/Network-Policy.zip: Network-Policy/*.class","exclude_compiled_derivative","Compiled class files were omitted because source is included."
+"/Users/dlev2617/Documents/Software/ARC - Zhang/Network-Policy.zip: Network-Policy/Jama/doc/**","exclude_generated_dependency_documentation","Generated third-party JAMA documentation is not paper-specific data or code."
+"/Users/dlev2617/Documents/Software/ARC - Zhang/Network-Policy.zip: Network-Policy/Jama/examples/**","exclude_dependency_examples","JAMA examples are unrelated to the published experiment."
+"/Users/dlev2617/Documents/Software/ARC - Zhang/Network-Policy.zip: Network-Policy/Jama/time/**","exclude_dependency_benchmark_material","JAMA timing utilities are unrelated to the published experiment."
+"/Users/dlev2617/Documents/Students/BhanuYerra/Programs/NDApplication","not_staged_for_this_paper","Related network dynamics Java code was checked but aligns more closely with the 2005 network dynamics paper than this autonomous-link pricing paper."
