@@ -45,7 +45,7 @@ The staged Java source is a credible historical source package for the published
 <!-- package-hardening-status:start -->
 ## Package Hardening Status
 
-Generated: 2026-05-21 20:57:23 AEST
+Generated: 2026-05-22 06:51:10 AEST
 
 - Pipeline: `READY-TO-UPLOAD/PUBLIC`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
