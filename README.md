@@ -1,5 +1,9 @@
 # Road Pricing With Autonomous Links
 
+## Contribution
+
+This paper models a road network as a repeated game in which autonomous links set prices and invest to maximize their own returns. Simulation compares decentralized and centralized policies and shows how local pricing and investment decisions interact with demand and route choice to shape capacity, revenue, accessibility, welfare, and the evolving network.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2005-11`
